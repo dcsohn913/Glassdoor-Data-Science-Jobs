@@ -1,5 +1,5 @@
 # Glassdoor-Data-Science-Jobs
-*Scraped through 1000 data science job postings on Glassdoor using Python and Selenium
+* Scraped through 1000 data science job postings on Glassdoor using Python and Selenium
 
 
 
